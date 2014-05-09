@@ -1,0 +1,5 @@
+- test infrastruktur
+- code structure
+- ci
+- requirements and functions
+- deploy
