@@ -1,0 +1,11 @@
+{
+  "name": "facility-webapp",
+  "version": "0.0.1",
+  "description": "Employee Facility Budget Tracker",
+  "main": "app.js",
+  "dependencies": {
+    "consolidate": "~0.9.1",
+    "express": "3.5.1",
+    "swig": "~0.14.0"
+  }
+}
