@@ -1,7 +1,6 @@
-var express = require('express')
-    , app = express()
-    , cons = require('consolidate');
-
+var express = require('express');
+var app = express();
+var cons = require('consolidate');
 var MongoClient = require('mongodb').MongoClient;
 var databaseUrl = "mongodb://localhost:27017/facility";
 
